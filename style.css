@@ -1,0 +1,23 @@
+h1{
+    color:aqua
+}
+
+
+.header{
+    background-color: blue;
+    display:flex;
+    justify-content: space-between;
+}
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+  justify-content: space-evenly;  
+}
+h2,p{
+    text-align:center;
+    background-color: greenyellow;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+body{
+    background-color: black;
+}
